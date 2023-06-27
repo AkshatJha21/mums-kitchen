@@ -5,7 +5,7 @@ Mums Kitchen is a cloud kitchen website built using ReactJS and Tailwind CSS. Th
 ## Features
 
 - Browse and order delicious meals from Mums Kitchen.
-- Modern design for seamless experience across devices.
+- Modern design with new UI elements.
 
 ## Installation
 
